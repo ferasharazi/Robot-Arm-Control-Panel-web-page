@@ -11,7 +11,6 @@ It allows saving motor positions into a MySQL database, retrieving them later, o
 - `delete_pose.php` — Deletes a saved pose.  
 - `get_run_pose.php` — Loads a saved pose for execution.  
 - `db.php` — Database connection file.  
-- `style.css` — UI styles.
 
 ---
 
