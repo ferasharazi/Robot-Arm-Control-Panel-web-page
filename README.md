@@ -5,7 +5,7 @@ It allows saving motor positions into a MySQL database, retrieving them later, o
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `index.php` — Main control interface and pose management.  
 - `save_pose.php` — Saves a pose to the database.  
 - `delete_pose.php` — Deletes a saved pose.  
@@ -14,10 +14,10 @@ It allows saving motor positions into a MySQL database, retrieving them later, o
 
 ---
 
-## 🛠 Requirements
-- PHP (v7 or newer)  
-- MySQL or MariaDB  
-- Local server environment like XAMPP, WAMP, or Laragon  
+## Requirements
+- PHP 
+- MySQL
+- Local server environment (XAMPP)
 
 ---
 
